@@ -1,4 +1,4 @@
-# 🤖 My Awesome Discord Bot 🎉
+# 🤖 Discord Developer Badge Bot 🎉
 
 Welcome to **My Awesome Discord Bot**! This bot is built using the Nextcord library and provides a slash command to get a "Discord Developer Badge."
 
